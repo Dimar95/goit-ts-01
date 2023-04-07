@@ -67,3 +67,5 @@ function showMessage(message: string): void {
     accounts: ['Alex'],
     status: 'close',
   }
+
+const a = 'a'
